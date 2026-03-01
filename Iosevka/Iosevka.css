@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  src:
+    url("WOFF2/Iosevka-Regular.woff2") format("woff2"),
+    url("TTF/Iosevka-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: expanded;
+  font-style: normal;
+  src:
+    url("WOFF2/Iosevka-Extended.woff2") format("woff2"),
+    url("TTF/Iosevka-Extended.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: italic;
+  src:
+    url("WOFF2/Iosevka-Italic.woff2") format("woff2"),
+    url("TTF/Iosevka-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: expanded;
+  font-style: italic;
+  src:
+    url("WOFF2/Iosevka-ExtendedItalic.woff2") format("woff2"),
+    url("TTF/Iosevka-ExtendedItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  src:
+    url("WOFF2/Iosevka-Bold.woff2") format("woff2"),
+    url("TTF/Iosevka-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: expanded;
+  font-style: normal;
+  src:
+    url("WOFF2/Iosevka-ExtendedBold.woff2") format("woff2"),
+    url("TTF/Iosevka-ExtendedBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: italic;
+  src:
+    url("WOFF2/Iosevka-BoldItalic.woff2") format("woff2"),
+    url("TTF/Iosevka-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: expanded;
+  font-style: italic;
+  src:
+    url("WOFF2/Iosevka-ExtendedBoldItalic.woff2") format("woff2"),
+    url("TTF/Iosevka-ExtendedBoldItalic.ttf") format("truetype");
+}
