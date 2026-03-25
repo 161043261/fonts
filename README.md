@@ -7,4 +7,3 @@
 - Rico_2
 
 <img src="./assets/rico_2.png" alt="Rico_2" width="500"/>
-
